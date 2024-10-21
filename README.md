@@ -31,7 +31,7 @@ Landing page desenvolvida em colaboração com a agência de publicidade Casa da
 
 ## 📚 Seções
 
-O projeto é composto por quatro seções:
+O projeto é composto por sete seções:
 
 - **Header:** Exibe o nome do projeto e CTA;
 - **Oferta:** Exibe a oferta ao produto e CTA;
